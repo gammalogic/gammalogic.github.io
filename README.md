@@ -1,0 +1,2 @@
+# gammalogic.github.io
+gammalogic
